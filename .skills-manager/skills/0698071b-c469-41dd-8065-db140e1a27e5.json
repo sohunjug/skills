@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0698071b-c469-41dd-8065-db140e1a27e5",
+  "path": "ubiquitous-language",
+  "path_key": "ubiquitous-language",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

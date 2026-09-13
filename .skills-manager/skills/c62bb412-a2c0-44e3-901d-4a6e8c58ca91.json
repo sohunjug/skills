@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c62bb412-a2c0-44e3-901d-4a6e8c58ca91",
+  "path": "diagnosing-bugs",
+  "path_key": "diagnosing-bugs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
